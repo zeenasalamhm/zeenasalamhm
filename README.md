@@ -3,6 +3,6 @@ Backend developer working with Laravel, Livewire and Filament on order, shipment
 
 - Raised PHPStan from level 2 to level 8 across a production codebase
 - Upgraded two production apps to Filament 5 and Livewire 4
-- 150+ merged pull requests in my first year at Miswag
+- 139 merged pull requests across 11 repositories in my first year at Miswag
 
 📍 Baghdad, Iraq · [LinkedIn]([https://www.linkedin.com/in/zeena-salam-403ab9200/])
